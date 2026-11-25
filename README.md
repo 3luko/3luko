@@ -198,7 +198,7 @@ I am also passionate about mentorship, leadership, and helping others discover o
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ethanlukandwa/)
 - 📧 [Email](mailto\:jlukandwa@gmail.com)
-- 🌐 Portfolio — (https://3luko.github.io/LukoPortfolio/)
+- 🌐 [Portfolio](https://3luko.github.io/LukoPortfolio/)
 
 ---
 
